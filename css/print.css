@@ -35,6 +35,11 @@ a, a:hover, a:visited, a:active {
 	display:none;
 }
 
+.name {
+	font-size: 48px;
+}
+	
+
 #paper-mid {
 	width:820px;
 	margin:0 auto;
