@@ -139,6 +139,12 @@ a:hover {
 	clear: both;
 }
 
+.name{
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: normal;
+	color:#5f1212;
+}
+
 #divabout h2{
 	font-family: Georgia, "Times New Roman", serif;
 }
@@ -422,6 +428,8 @@ img.portrait {
 
 .self ul {
 	padding-top: 10px;
+	font-family: Lato, "Times New Roman", serif;
+	font-size: 15px;
 }
 
 .self ul li.ad {
