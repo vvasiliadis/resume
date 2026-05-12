@@ -1,7 +1,6 @@
 # resume
 Personal CV - All Rights Reserved 2017
 
-Vasilis Vasiliadis 
+Vasileios Vasileiadis 
 https://vvasiliadis.github.io/resume/
 
-It dev: https://github.com/georgal 
